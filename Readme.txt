@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Landing Page for Fintech Solutions Inc.
 
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website URL: https://fintechsolutionsinc.github.io
+Author: Cyprian Munene (https://github.com/mercurialmune)
